@@ -1,0 +1,16 @@
+{
+  "name": "paperlesson",
+  "version": "1.0.1",
+  "description": "Generate seeded K-12 math drills with answer keys, handwriting ruling specs & vector PDFs.",
+  "homepage": "https://paperlesson.com",
+  "repository": "https://github.com/AbigailDavised/paperlesson-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "PaperLesson",
+    "url": "https://paperlesson.com"
+  },
+  "mcpServers": "./mcp.json",
+  "skills": [
+    "./skills/paperlesson"
+  ]
+}

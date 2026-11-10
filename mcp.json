@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paperlesson": {
+      "type": "streamable-http",
+      "url": "https://paperlesson.com/api/mcp"
+    }
+  }
+}
