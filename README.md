@@ -1,4 +1,6 @@
-# PaperLesson — K-12 Vector Math Drills & Handwriting Worksheet Generator
+
+
+[![mcptry](https://mcptry.com/badge/com.paperlesson/mcp)](https://mcptry.com/servers/com.paperlesson/mcp)
 
 [![Official Website](https://img.shields.io/badge/Website-paperlesson.com-blue)](https://paperlesson.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.paperlesson%2Fmcp-green)](https://www.mcptry.com/servers/com.paperlesson/mcp)
