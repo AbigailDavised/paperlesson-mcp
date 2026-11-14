@@ -5,6 +5,7 @@
 [![Official Website](https://img.shields.io/badge/Website-paperlesson.com-blue)](https://paperlesson.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.paperlesson%2Fmcp-green)](https://www.mcptry.com/servers/com.paperlesson/mcp)
 [![Glama Connector](https://img.shields.io/badge/Glama-Connector-purple)](https://glama.ai/mcp/connectors/com.paperlesson/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/paperlesson-k-12-vector-math-drills-handwriti-mcp/card.svg)](https://mcprush.com/to/paperlesson-k-12-vector-math-drills-handwriti-mcp?ref=badge)
 
 Generate seeded K-12 math drills with answer keys, handwriting ruling specs & vector PDFs.
 
